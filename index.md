@@ -16,7 +16,7 @@ Here you can find a list of projects focused on machine learning model implement
 
 
 
- ![Image](src)
+ ![Image](https://www.itagnol.com/wp-content/uploads/2019/01/CIAO-300x179.jpg)
 
 
 
