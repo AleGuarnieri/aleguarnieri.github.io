@@ -8,16 +8,17 @@ So let me share some of the first steps I am taking to enrich my knowledge about
 
 My dream: use my expertise to work and volunteer givin back what I learned in the different areas in which these activities can be applied, contributing to have a positive impact in the society :)
 
+### Data science projects
+
+Here you can find a list of projects focused on machine learning model implementation
+
+[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
 
 
 
-You can use the [editor on GitHub](https://github.com/AleGuarnieri/aleguarnieri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -49,6 +50,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
+
+
+
+You can use the [editor on GitHub](https://github.com/AleGuarnieri/aleguarnieri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 
