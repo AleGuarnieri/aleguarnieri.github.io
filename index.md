@@ -1,6 +1,4 @@
-## My portfolio
-
-Ciao and welcome! 
+## Ciao and welcome! 
 
 I am Alessandro, a data analyst passionate about data science and everything around it.
 
@@ -8,7 +6,7 @@ I hold an M.Sc. in Applied Physics and after an experience as a Salesforce devel
 
 So let me share some of the first steps I am taking to enrich my knowledge about this wonderful field.
 
-My dream: once expert, use my expertise to volunteer and give back what I learned in the different areas in which this activities can be applied, contributing to have a positive impact in the society :)
+My dream: use my expertise to work and volunteer givin back what I learned in the different areas in which these activities can be applied, contributing to have a positive impact in the society :)
 
 
 
