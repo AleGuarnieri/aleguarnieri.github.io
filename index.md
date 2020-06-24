@@ -12,11 +12,11 @@ My dream: use my expertise to work and volunteer giving back what I learned in t
 
 Here you can find a list of projects focused on machine learning model implementation
 
-:open_file_folder: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
+![Image](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/folder.png) [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
 
 
 
- ![Image](https://www.itagnol.com/wp-content/uploads/2019/01/CIAO-300x179.jpg)
+
 
 
 
