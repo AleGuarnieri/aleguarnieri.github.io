@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## My portfolio
+
+Ciao and welcome! 
+
+I am Alessandro, a data analyst passionate about data science and everything around it.
+
+I hold an M.Sc. in Applied Physics and after an experience as a Salesforce developer in Deloitte, I decided to delve into data science and data engineering: the best decision I could ever take!
+
+So let me share some of the first steps I am taking to enrich my knowledge about this wonderful field.
+
+My dream: once expert, use my expertise to volunteer and give back what I learned in the different areas in which this activities can be applied, contributing to have a positive impact in the society :)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/AleGuarnieri/aleguarnieri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +48,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
