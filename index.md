@@ -8,7 +8,7 @@ As I believe in education and learning in every form, let me share some of the s
 
 My dream? Keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :slightly_smiling_face:
 
-## Machine Learning
+## Machine Learning with Python
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
