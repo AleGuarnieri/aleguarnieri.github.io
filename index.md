@@ -12,28 +12,22 @@ My dream? Keep learning and use my expertise to work and volunteer in the areas 
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
-1.[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
-2.[Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)
-
+[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
+[Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)
 
 ## Python applied to Data analysis
 
 In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
 
 ### Coding
-[Python_Capstone_Project](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)
-
+[Python_Capstone_Project](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
 [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)
 
 
 ### Data Visualization
-[Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Life%20expectancy%20and%20GDP)
-
-[Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)
-
-[Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)
-
-
+[Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Life%20expectancy%20and%20GDP)  
+[Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)  
+[Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)  
 
 
 
