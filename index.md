@@ -12,7 +12,7 @@ My dream? Keep learning and use my expertise to work and volunteer in the areas 
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
-1.[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
+1.[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
 2.[Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)
 
 
