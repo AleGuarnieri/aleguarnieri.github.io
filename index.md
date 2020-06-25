@@ -43,7 +43,7 @@ In this section I uploaded some of the exercises I carried out to learn python b
 
 
 
-![Image](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/folder.png) 
+![Image](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/images) 
 
 ```markdown
 Syntax highlighted code block
