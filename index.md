@@ -17,7 +17,7 @@ Projects focused on machine learning models implementation, both supervised and 
 [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
 
 
-## Python applied to Data analysis
+## Python applied to Data Science
 
 In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
 
