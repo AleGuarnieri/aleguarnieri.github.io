@@ -1,18 +1,46 @@
-## Ciao and welcome! 
+# Ciao and welcome! 
 
-I am Alessandro, a data analyst passionate about data science and everything around it.
+I am Alessandro, a data analyst passionate about data science but not only, as I play the piano and I love arts in general.
 
-I hold an M.Sc. in Applied Physics and after an experience as a Salesforce developer in Deloitte, I decided to delve into data science and data engineering: the best decision I could ever take!
+I hold an M.Sc. in Applied Physics and I've always been into science and its applications into the real world. After an experience as a Salesforce developer in Deloitte, I finally managed to delve into data science and data engineering field: the best decision I could ever take!
 
-So let me share some of the first steps I am taking to enrich my knowledge about this wonderful field.
+So let me share some of the steps I am taking to enrich my knowledge about this wonderful field.
 
-My dream: use my expertise to work and volunteer giving back what I learned in the different areas in which these activities can be applied, contributing to have a positive impact in the society :)
+My dream? Keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :)
 
-### Data science projects
+## Machine Learning
 
-Here you can find a list of projects focused on machine learning model implementation
+Projects focused on machine learning model implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
 ![Image](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/folder.png) [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
+[Masculinity]
+
+
+## Python applied to Data analysis
+
+In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to data science field
+
+### Coding
+[Python_Capstone_Project]
+[Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
+
+
+### Data Visualization
+[Life expectancy and GDP]
+[Netflix Stocks]
+[Biodiversity]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
