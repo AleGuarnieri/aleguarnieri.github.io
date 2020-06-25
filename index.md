@@ -2,33 +2,33 @@
 
 I am Alessandro, a data analyst passionate about data science but not only, as I play the piano and I love arts in general.
 
-I hold an M.Sc. in Applied Physics and I've always been into science and its applications into the real world. After an experience as a Salesforce developer in Deloitte, I finally managed to delve into data science and data engineering field: the best decision I could ever take!
+I hold an M.Sc. in Applied Physics and I've always been into science and its applications to the real world since ever. After an experience as a Salesforce developer, I finally managed to combine my interest for science and informatics with something which can be broadly applied and I decided to delve into data science and data engineering field: the best decision I could ever take!
 
-So let me share some of the steps I am taking to enrich my knowledge about this wonderful field.
+As I believe in education and learning in every form, let me share some of the steps I am taking to enrich my knowledge about this wonderful field.
 
 My dream? Keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :)
 
 ## Machine Learning
 
-Projects focused on machine learning model implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
+Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
-![Image](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/folder.png) [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
-[Masculinity]
+[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
+[Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)
 
 
 ## Python applied to Data analysis
 
-In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to data science field
+In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
 
 ### Coding
-[Python_Capstone_Project]
-[Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)
+[Python_Capstone_Project](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)
+[Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)
 
 
 ### Data Visualization
-[Life expectancy and GDP]
-[Netflix Stocks]
-[Biodiversity]
+[Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Life%20expectancy%20and%20GDP)
+[Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)
+[Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)
 
 
 
@@ -46,7 +46,7 @@ In this section I uploaded some of the exercises I carried out to learn python b
 
 
 
-
+![Image](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/folder.png) 
 
 ```markdown
 Syntax highlighted code block
