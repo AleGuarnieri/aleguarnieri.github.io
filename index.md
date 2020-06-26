@@ -22,8 +22,8 @@ Projects focused on machine learning models implementation, both supervised and 
 In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
 
 ### 1. Coding
-:green_book: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
-:orange_book: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
+:orange_book: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
+:green_book: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
 :closed_book: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Introduction%20to%20Data%20Science%20in%20Python)  
 
 ### 2. Data Visualization
