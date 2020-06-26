@@ -1,6 +1,6 @@
 # Welcome! 
 
-I am Alessandro, a data analyst passionate about data science but not only, as I play the piano and I love arts in general. :bar_chart:
+I am Alessandro, a data analyst passionate about data science :bar_chart: but not only, as I play the piano and I love arts in general. :musical_score:
 
 I hold an M.Sc. in Applied Physics and I've always been interested in science and its applications to the real world since ever. After an experience as a Salesforce developer, I finally managed to combine my interest for science and informatics with something which can be broadly applied and I decided to delve into data science and data engineering field: the best decision I could ever take!
 
