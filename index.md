@@ -14,7 +14,7 @@ Projects focused on machine learning models implementation, both supervised and 
 
 :file_folder: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
 :file_folder: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
-:file_folder: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
+:notebook: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
 
 
 ## Python applied to Data Science
