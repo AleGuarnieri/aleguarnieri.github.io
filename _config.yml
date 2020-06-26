@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Data Science Portfolio
 description: Alessandro Guarnieri, M.Sc. Applied Physics | aleguarnieri91@gmail.com 
+plugins:
+  - jemoji
