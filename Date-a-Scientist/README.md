@@ -1,4 +1,4 @@
-# Supervised and unsupervised learning - "Date-a-Scientist"
+# Supervised and unsupervised learning - "Date-a-Scientist" project
 
 In this notebook I summarized the capstone project of a data science and machine learning course. 
 
