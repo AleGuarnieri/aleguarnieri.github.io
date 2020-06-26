@@ -12,9 +12,9 @@ My dream? To keep learning and use my expertise to work and volunteer in the are
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
-:file_folder: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
-:file_folder: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
-:notebook: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
+:file_folder: ###[Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
+:file_folder: ###[Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
+:notebook: ###[Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
 
 
 ## Python applied to Data Science
