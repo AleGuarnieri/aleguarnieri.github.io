@@ -8,6 +8,9 @@ As I strongly believe in education and learning in every form, let me share some
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :slightly_smiling_face:
 
+<br/>
+<br/>
+
 ## Machine Learning with Python
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
@@ -16,6 +19,8 @@ Projects focused on machine learning models implementation, both supervised and 
 :orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
 :green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
 
+<br/>
+<br/>
 
 ## Python applied to Data Science
 
