@@ -18,6 +18,7 @@ Projects focused on machine learning models implementation, both supervised and 
 :orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
 :green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
 
+<br/>
 
 
 ## Python applied to Data Science
