@@ -4,7 +4,7 @@ I am Alessandro, a data analyst passionate about data science but not only, as I
 
 I hold an M.Sc. in Applied Physics and I've always been interested in science and its applications to the real world since ever. After an experience as a Salesforce developer, I finally managed to combine my interest for science and informatics with something which can be broadly applied and I decided to delve into data science and data engineering field: the best decision I could ever take!
 
-As I believe in education and learning in every form, let me share some of the steps I am taking to enrich my knowledge about this wonderful field.
+As I strongly believe in education and learning in every form, let me share some of the steps I am taking to enrich my knowledge about this wonderful field.
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :slightly_smiling_face:
 
