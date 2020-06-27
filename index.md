@@ -1,5 +1,3 @@
-# Intro
-
 ![](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/pexels-photo-577585.jpeg?raw=true)
 
 I am Alessandro, a data analyst passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
