@@ -41,7 +41,7 @@ In this section I uploaded some of the exercises I carried out to learn python b
 <br/>
 <br/>
 
-### Contacts:  
+### Contacts  
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
 &nbsp;
