@@ -4,7 +4,7 @@ I'm Alessandro, a data analyst passionate about data science 📊 and not only, 
 
 After an experience as a Salesforce Platform developer, I decided to move into the data science and data engineering sector a few years ago, to combine my background and interest about science and informatics with something useful and applicable to the real world.
 
-As I strongly believe in continuous learning, I'm sharing here the activities I do to enrich my knowledge about this wonderful field. Feel free to explore or send me a comment on all the material I loaded.
+I strongly believe in continuous learning and I'm sharing here the activities I do to enrich my knowledge about this wonderful field. Feel free to explore or send me a comment on all the material I loaded.
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society 🙂  
 
