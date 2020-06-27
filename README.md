@@ -1,12 +1,12 @@
-# Welcome! 
+### Welcome
 
-I am Alessandro, a data analyst passionate about data science :bar_chart: but not only, as I play the piano and I love arts in general. :musical_score:
+I am Alessandro, a data analyst passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
 
 I hold an M.Sc. in Applied Physics and I've always been interested in science and its applications to the real world since ever. After an experience as a Salesforce developer, I finally managed to combine my interest for science and informatics with something which can be broadly applied and I decided to delve into data science and data engineering field.
 
-As I strongly believe in education and learning in every form, let me share some of the small steps I am taking to enrich my knowledge about this wonderful field. Feel free to explore or send me a comment on all the exercises and projects I loaded.
+As I strongly believe in education and learning in every form, let me share some of the steps I am taking to enrich my knowledge about this wonderful field. Feel free to explore or send me a comment on all the exercises and projects I loaded.
 
-My dream? To keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :slightly_smiling_face:
+My dream? To keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society 🙂  
 
 <br/>
 <br/>
@@ -36,4 +36,11 @@ In this section I uploaded some of the exercises I carried out to learn python b
 :ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)  
 :blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)  
 
+<br/>
+<br/>
 
+### Contacts  
+  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AleGuarnieri/aleguarnieri.github.io)
