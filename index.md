@@ -1,8 +1,6 @@
 # Welcome! 
 
-I am Alessandro, a data analyst passionate about data science with a background in Applied Physics. I've always been interested in science and its applications to the real world since ever. After an experience as a Salesforce developer, I finally managed to combine my interest for science and informatics with something which can be broadly applied and I decided to delve into data science and engineering field.
-
-I strongly believe in education and learning in every form,
+I am Alessandro, a data analyst passionate about data science with a background in Applied Physics. After an experience as a Salesforce developer, I finally managed to combine my interest for science and informatics with something which can be broadly applied and useful for the real world and I decided to delve into data science and engineering field.
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which these activities can be applied, giving back what I learned and contributing to have a positive impact in our society :slightly_smiling_face:
 
@@ -43,3 +41,4 @@ In this section I uploaded some of the exercises I carried out to learn python b
 I am Alessandro, a data analyst passionate about data science :bar_chart: but not only, as I play the piano and I love arts in general. :musical_score:
 
 Feel free to explore or send me a comment on all the exercises and projects I loaded.
+I've always been interested in science and its applications to the real world since ever.
