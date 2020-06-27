@@ -6,7 +6,7 @@ After an experience as a Salesforce Platform developer, I decided to move into t
 
 I strongly believe in continuous learning, so I'm sharing here the activities I do to enrich my knowledge about this wonderful field.
 
-My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society 🙂  
+My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society :earth_africa:  
 
 <br/>
 <br/>
