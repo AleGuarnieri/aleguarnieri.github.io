@@ -1,4 +1,4 @@
-#                                                                                         Intro
+# Intro
 
 ![](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/pexels-photo-577585.jpeg?raw=true)
 
