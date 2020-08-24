@@ -8,7 +8,7 @@ I strongly believe in continuous learning, so I'm sharing here the activities I 
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society :earth_africa:  
 
-You can find all the details on my background in the following Linkeding profile [link](https://www.linkedin.com/in/alessandro-g-5143679a/)
+You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
 <br/>
 <br/>
 
