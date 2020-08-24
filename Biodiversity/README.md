@@ -1,3 +1,1 @@
-# Data visualization - "Biodiversity" project
-
-This notebook is the final guided project where I was asked to process the data with python and then use matplotlib as a visualization library, to analyze and visualize the outcome. 
+This notebook is the final guided project of a course where I was asked to process the data with python and to visualize them using matplotlib. The purpose is to analyze some data about animal species at various national parks to describe the number of observations at each different park.
