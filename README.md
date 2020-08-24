@@ -43,7 +43,8 @@ In this section I uploaded some of the exercises I carried out to learn python b
 <br/>
 <br/>
 
-### [My Certifications](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Certifications)
+### Certifications
+At this [link](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Certifications) the certifications I took during this past years related to data analysis and data science
 
 <br/>
 
