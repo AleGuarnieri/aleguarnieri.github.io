@@ -24,7 +24,7 @@ Projects focused on machine learning models implementation, both supervised and 
 
 ## Data manipulation and visualization with Python
 
-In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
+Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract and interpret information from data
 
 :ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Introduction%20to%20Data%20Science%20in%20Python)  
 :orange_book: [Applied Plotting & Data Representation in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)  
@@ -40,7 +40,7 @@ In this section I uploaded some of the exercises I carried out to learn python b
 <br/>
 
 ### Certifications
-At this [link](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Certifications) the certifications I took during this past years related to data analysis and data science
+At this [link](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Certifications) the certifications I took during this past years
 
 <br/>
 
