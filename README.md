@@ -22,11 +22,10 @@ Projects focused on machine learning models implementation, both supervised and 
 <br/>
 <br/>
 
-## Python applied to Data Science
+## Data manipulation and visualization with Python
 
 In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
 
-### Data manipulation and visualization
 :ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Introduction%20to%20Data%20Science%20in%20Python)  
 :orange_book: [Applied Plotting & Data Representation in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)  
 :green_book: [Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Life%20expectancy%20and%20GDP)  
