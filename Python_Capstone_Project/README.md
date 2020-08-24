@@ -1,4 +1,4 @@
-# Python coding - "Markov chain" project
+# "Markov chain" project
 I wrote this script as part of a final project of a python course. 
 
 The goal was to write a code which could fulfill the following requirements:
