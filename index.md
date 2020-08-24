@@ -1,13 +1,16 @@
 ![](https://github.com/AleGuarnieri/aleguarnieri.github.io/blob/master/images/pexels-photo-577585.jpeg?raw=true)  
 
-I'm Alessandro, a data analyst passionate about data science 📊 and not only, as I play the piano and I love arts in general. 🎼
+### Welcome
 
-After an experience as a Salesforce Platform developer, I decided to move into the data science and data engineering sector a few years ago, to combine my background and interest about science and informatics with something useful and applicable to the real world.
+I'm Alessandro, a data analyst professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
+
+After an experience as a Salesforce Platform developer, I decided to move into the data science and data engineering sector a few years ago, to combine my strong background and interest about science and informatics with something useful and applicable to the real world.
 
 I strongly believe in continuous learning, so I'm sharing here the activities I do to enrich my knowledge about this wonderful field.
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society :earth_africa:  
 
+You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
 <br/>
 <br/>
 
@@ -22,21 +25,26 @@ Projects focused on machine learning models implementation, both supervised and 
 <br/>
 <br/>
 
-## Python applied to Data Science
+## Data manipulation and visualization with Python
 
-In this section I uploaded some of the exercises I carried out to learn python best practices, mostly applied to the data science field
+Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract and interpret information from data
 
-### 1. Data manipulation and coding
-:orange_book: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
-:green_book: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
 :ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Introduction%20to%20Data%20Science%20in%20Python)  
-
-### 2. Data Visualization
+:orange_book: [Applied Plotting & Data Representation in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)  
 :green_book: [Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Life%20expectancy%20and%20GDP)  
 :ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)  
 :blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)  
 
+#### Additional exercises I did on Python scripting
+:page_facing_up: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
+:page_facing_up: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
+
 <br/>
+<br/>
+
+### Certifications
+At this [link](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Certifications) the certifications I took during this past years
+
 <br/>
 
 ### Contacts  
