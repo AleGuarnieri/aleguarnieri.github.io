@@ -1,5 +1,3 @@
-# Python coding
-
 These three notebooks focus on data manipulation and analysis, mainly using python's library Pandas:
 
 1) "Pandas exercises one" and "Pandas exercises two": these notebook are focused on data manipulation and processing using the Pandas library to solve different questions that require joining, slicing and manipulating different dataframes. 
