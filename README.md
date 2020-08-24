@@ -33,13 +33,10 @@ In this section I uploaded some of the exercises I carried out to learn python b
 :ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)  
 :blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)  
 
-<br/>
-
 #### Additional exercises I did on Python scripting
 [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
 [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
 
-<br/>
 <br/>
 <br/>
 
