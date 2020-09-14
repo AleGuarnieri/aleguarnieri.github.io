@@ -11,6 +11,21 @@ I strongly believe in continuous learning, so I'm sharing here the activities I 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society :earth_africa:  
 
 You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
+
+<br/>
+<br/>
+
+## Data wrangling and visualization with Python
+
+Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract, visualize and interpret data.
+
+:blue_book: [Airbnb accomodations in Milan](https://github.com/AleGuarnieri/Airbnb-accomodations-analysis-in-Milan)  
+:ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Introduction%20to%20Data%20Science%20in%20Python)  
+:orange_book: [Applied Plotting & Data Representation in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)  
+:green_book: [Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Life%20expectancy%20and%20GDP)  
+:ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Netflix%20Stocks)  
+:blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Biodiversity)  
+
 <br/>
 <br/>
 
@@ -18,25 +33,11 @@ You can find all the details on my background on [LinkedIn](https://www.linkedin
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
-:blue_book: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
-:orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
-:green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
+:blue_book: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Date-a-Scientist)  
+:orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Masculinity)  
+:green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Applied%20Machine%20learning%20in%20Python)  
 
-<br/>
-<br/>
-
-## Data manipulation and visualization with Python
-
-Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract and interpret information from data
-
-:blue_book: [Airbnb accomodations in Milan](https://github.com/AleGuarnieri/Airbnb-accomodations-analysis-in-Milan)  
-:ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Introduction%20to%20Data%20Science%20in%20Python)  
-:orange_book: [Applied Plotting & Data Representation in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)  
-:green_book: [Life expectancy and GDP](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Life%20expectancy%20and%20GDP)  
-:ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)  
-:blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)  
-
-#### Additional exercises I did on Python scripting
+#### Additional exercises in Python
 :page_facing_up: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
 :page_facing_up: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
 

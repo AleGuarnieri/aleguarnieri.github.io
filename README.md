@@ -36,7 +36,7 @@ Projects focused on machine learning models implementation, both supervised and 
 :orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Masculinity)  
 :green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Applied%20Machine%20learning%20in%20Python)  
 
-### Python coding
+### Additional exercises in Python
 :page_facing_up: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python%20coding/Python_Capstone_Project)  
 :page_facing_up: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python%20coding/Coded%20correspondence)  
 
