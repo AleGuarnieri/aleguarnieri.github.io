@@ -26,9 +26,6 @@ Projects focused on the application of Python to data science, using modules lik
 :ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Netflix%20Stocks)  
 :blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Biodiversity)  
 
-<br/>
-<br/>
-
 ## Machine Learning with Python
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
