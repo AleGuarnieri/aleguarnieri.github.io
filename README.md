@@ -19,7 +19,7 @@ Python and Data Science.
 
 ### Data wrangling and visualization with Python
 
-Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract, visualize and interpret data
+Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract, visualize and interpret data.
 
 :blue_book: [Airbnb accomodations in Milan](https://github.com/AleGuarnieri/Airbnb-accomodations-analysis-in-Milan)  
 :ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Introduction%20to%20Data%20Science%20in%20Python)  
@@ -41,7 +41,7 @@ Projects focused on machine learning models implementation, both supervised and 
 :page_facing_up: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python%20coding/Coded%20correspondence)  
 
 ### Certifications
-Folder containing certifications I took during this past years related to this field
+Folder containing certifications I took during this past years related to this field.
 
 ## Contacts  
   
