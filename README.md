@@ -45,9 +45,3 @@ Few of many exercises I carried out to learn Python language.
 
 ### Certifications
 Folder containing certifications I took during this past years related to this field.
-
-## Contacts  
-  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AleGuarnieri/aleguarnieri.github.io)
