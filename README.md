@@ -1,31 +1,25 @@
 ### Welcome
 
+## About me
 I'm Alessandro, a data analyst professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
 
 After an experience as a Salesforce Platform developer, I decided to move into the data science and data engineering sector a few years ago, to combine my strong background and interest about science and informatics with something useful and applicable to the real world.
 
-I strongly believe in continuous learning, so I'm sharing here the activities I do to enrich my knowledge about this wonderful field.
-
-My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to have a positive impact in our society :earth_africa:  
-
 You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
-<br/>
-<br/>
 
-## Machine Learning with Python
+## Motivation
+This repository contains a series of projects I worked or I am working on, all related to the broad topic of Data Science.
+The language used to achive the goal of each project is python and the topics covered are different but all related to 
+data extraction, manipulation, analysis, modeling and visualization.
 
-Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
+I started to build this repository to have a place where to keep all the projects done to improve and broaden my knowledge about
+Python and Data Science
 
-:blue_book: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
-:orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
-:green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
+## File description
 
-<br/>
-<br/>
+### Data wrangling and visualization with Python
 
-## Data manipulation and visualization with Python
-
-Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract and interpret information from data
+Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract, visualize and interpret data
 
 :blue_book: [Airbnb accomodations in Milan](https://github.com/AleGuarnieri/Airbnb-accomodations-analysis-in-Milan)  
 :ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Introduction%20to%20Data%20Science%20in%20Python)  
@@ -34,7 +28,15 @@ Projects focused on the application of Python to data science, using modules lik
 :ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Netflix%20Stocks)  
 :blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Biodiversity)  
 
-#### Additional exercises I did on Python scripting
+### Machine Learning with Python
+
+Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
+
+:blue_book: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Date-a-Scientist)  
+:orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Masculinity)  
+:green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Applied%20Machine%20learning%20in%20Python)  
+
+### Python coding
 :page_facing_up: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
 :page_facing_up: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
 
@@ -42,11 +44,9 @@ Projects focused on the application of Python to data science, using modules lik
 <br/>
 
 ### Certifications
-At this [link](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Certifications) the certifications I took during this past years
+Folder containing certifications I took during this past years related to this field
 
-<br/>
-
-### Contacts  
+## Contacts  
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
 &nbsp;
