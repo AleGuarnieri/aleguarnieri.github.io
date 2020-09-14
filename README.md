@@ -1,4 +1,4 @@
-### Welcome
+# Welcome
 
 ## About me
 I'm Alessandro, a data analyst professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
@@ -39,9 +39,6 @@ Projects focused on machine learning models implementation, both supervised and 
 ### Python coding
 :page_facing_up: [Markov chain](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Python_Capstone_Project)  
 :page_facing_up: [Coded correspondance](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Coded%20correspondence)  
-
-<br/>
-<br/>
 
 ### Certifications
 Folder containing certifications I took during this past years related to this field
