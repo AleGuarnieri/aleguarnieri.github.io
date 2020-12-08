@@ -10,7 +10,7 @@ I strongly believe in continuous learning, so I'm sharing here the activities I 
 
 My dream? To keep learning and use my expertise to work and volunteer in the areas in which data science can be applied, giving back what I learned and contributing to make a positive impact in our society :earth_africa:  
 
-You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
+You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-guarnieri-ag/)
 
 <br/>
 <br/>
@@ -48,6 +48,6 @@ At this [link](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/maste
 
 ### Contacts  
   
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-g-5143679a/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-guarnieri-ag/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AleGuarnieri/aleguarnieri.github.io)
