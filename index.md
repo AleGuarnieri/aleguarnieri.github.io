@@ -2,9 +2,9 @@
 
 ### Welcome
 
-I'm Alessandro, a data analyst professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
+I'm Alessandro, a data scientist professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
 
-After an experience as a Salesforce Platform developer, I decided to move into the data science and data engineering sector a few years ago, to combine my strong background and interest about science and informatics with something useful and applicable to the real world.
+After an experience as a Salesforce Platform developer, I decided to move into the data science sector a few years ago, to combine my strong background and interest about science and informatics with something useful and applicable to the real world.
 
 I strongly believe in continuous learning, so I'm sharing here the activities I do to enrich my knowledge about this wonderful field.
 
@@ -26,10 +26,11 @@ Projects focused on the application of Python to data science, using modules lik
 :ledger: [Netflix Stocks](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Netflix%20Stocks)  
 :blue_book: [Biodiversity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Biodiversity)  
 
-## Machine Learning with Python
+## Machine Learning with Python and Pyspark
 
 Projects focused on machine learning models implementation, both supervised and unsupervised. Some are guided projects while others I carried out on my own.
 
+:green_book: [Sparkify-Churn prediction](https://github.com/AleGuarnieri/Sparkify-Capstone)
 :blue_book: [Date-A-Scientist](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Date-a-Scientist)  
 :orange_book: [Masculinity](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Masculinity)  
 :green_book: [Applied Machine learning in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Machine%20Learning%20with%20Python/Applied%20Machine%20learning%20in%20Python)  
