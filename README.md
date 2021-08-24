@@ -1,9 +1,9 @@
 # Welcome
 
 ## About me
-I'm Alessandro, a data analyst professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
+I'm Alessandro, a data scientist professional working for "BIP xTech", an international consulting firm focused on Data analysis and Data Science. I am passionate about data science 📊 but not only, as I play the piano and I love arts in general. 🎼
 
-After an experience as a Salesforce Platform developer, I decided to move into the data science and data engineering sector a few years ago, to combine my strong background and interest about science and informatics with something useful and applicable to the real world.
+After an experience as a Salesforce Platform developer, I decided to move on into the data science sector a few years ago, to combine my strong background and interest about science and informatics with something useful and applicable to the real world.
 
 You can find all the details on my background on [LinkedIn](https://www.linkedin.com/in/alessandro-guarnieri-ag/)
 
