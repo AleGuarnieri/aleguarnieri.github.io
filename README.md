@@ -4,7 +4,7 @@
 
 I'm Alessandro, a data scientist/engineer working for "BIP xTech".
 
-After an experience as a Salesforce Platform developer, I decided to move into the data field a few years ago, to combine my strong background and interest informatics with something useful and applicable to the real world.
+After an experience as a Salesforce Platform admin and developer, I decided to move into the data field a few years ago, to combine my strong background and interest toward technology with something useful and applicable to the real world.
 
 I strongly believe in continuous learning, so I'm sharing here the activities I do to enrich my knowledge.
 
@@ -15,7 +15,7 @@ You can find all the details on my background on [LinkedIn](https://www.linkedin
 
 ## Data wrangling and visualization with Python
 
-Projects focused on the application of Python to data science, using modules like Pandas or Matplotlib to correctly extract, visualize and interpret data.
+Projects focused on the application of Python, using modules like Pandas or Matplotlib to correctly extract, visualize and interpret data.
 
 :blue_book: [Airbnb accomodations in Milan](https://github.com/AleGuarnieri/Airbnb-accomodations-analysis-in-Milan)  
 :ledger: [Introduction to Data Science in Python](https://github.com/AleGuarnieri/aleguarnieri.github.io/tree/master/Data%20wrangling%20and%20visualization%20with%20Python/Introduction%20to%20Data%20Science%20in%20Python)  
